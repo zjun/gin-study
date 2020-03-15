@@ -1,2 +1,2 @@
-# gin_study
+# gin-study
 Gin study demos
